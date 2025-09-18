@@ -18,6 +18,7 @@ public class ScannerDemo {
 		int sal  = sc.nextInt();
 		
 		System.out.println("The name is: "+name + "The location is: "+location+ " the salary is "+sal);
+		sc.close();
 	}
 
 }
