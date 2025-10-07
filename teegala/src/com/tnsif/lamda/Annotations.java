@@ -1,7 +1,7 @@
 package com.tnsif.lamda;
 
 @FunctionalInterface
-interface A{
+interface Aaa{
 	public void show();
 	
 }
